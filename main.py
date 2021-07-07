@@ -20,7 +20,6 @@ def ch_language(selection):
 
 
 def finish_typing(entry):
-    result.grid_forget()
     text_output = entry.get(1.0, END)
     entry.grid_forget()
     mistakes = 0
@@ -51,6 +50,7 @@ def finish_typing(entry):
 
 
 def start_typing():
+    result.grid_forget()
     if clicked1.get() != '' and clicked.get() != '' and clicked2.get() != '':
         entry = Text(ws, height=30, width=50)
         entry.grid(row=5, column=3, pady=20, sticky=N)
@@ -83,7 +83,7 @@ def texts_size(selection):
     text.grid(row=5, column=1, pady=20)
 
 
-result = ttk.Label(ws, text='', style='BW.TLabel', wraplength=300)
+result = ttk.Label(ws, text='', style='BW.TLabel', wraplength=900)
 
 text = ttk.Label(ws, text='', style='BW.TLabel', wraplength=900, justify=LEFT)
 
