@@ -6,8 +6,8 @@ small_rus = 'Человечество на протяжении всей сво�
             '1817 года начинается волна непрерывных пандемий, которые унесли в 19 веке больше человеческих жизней, ' \
             'чем вспышка любой другой болезни. Существует предположение, что причиной пандемий стала мутация ' \
             'возбудителя холеры, произошедшая в Бенгалии в "год без лета" и вызванная аномальными погодными условиями ' \
-            '1816 года. В 1817 году первая пандемия холеры охватила все без исключения страны Азии и докатилась ' \
-            'до Астрахани.'
+            '1816 года.'
+
 medium_rus = 'Для предотвращения передачи инфекции необходимо соблюдать меры личной гигиены, часто мыть руки, ' \
              'не касаться грязными руками глаз, носа и рта, при кашле и чихании использовать одноразовый платок и ' \
              'незамедлительно выбрасывать его после применения. Тех, кто, возможно, уже инфицирован, просят носить ' \
@@ -22,10 +22,7 @@ medium_rus = 'Для предотвращения передачи инфекц�
              'телефонов для отслеживания контактов в условиях эпидемии вызывает серьёзные опасения в вопросах ' \
              'сохранения неприкосновенности личной информации. По данным на 7 апреля 2020 года, различные экспертные ' \
              'группы занимаются разработкой мобильных приложений, которые могли бы помочь в борьбе с распространением ' \
-             'инфекции, не нарушая конфиденциальности. В Южной Корее удалось купировать распространение эпидемии ' \
-             'массовыми тестами: на улице, в мобильных пунктах, которые были развёрнуты в городах, где произошли ' \
-             'вспышки заболеваемости. К 20 марта было сделано более 316 тысяч тестов. Кроме того, всех людей, ' \
-             'контактировавших с заболевшими, изолировали.'
+             'инфекции, не нарушая конфиденциальности.'
 
 large_rus = 'Возбудитель чумы устойчив к низким температурам, хорошо сохраняется в мокроте, но при температуре +55 ' \
             'градусов по Цельсию погибает в течение 10-15 минут, а при кипячении - практически мгновенно. Ворота ' \
@@ -50,14 +47,7 @@ large_rus = 'Возбудитель чумы устойчив к низким т
             'показали, что одна блоха может заразить до 11 хозяев). При укусе заражённых чумными бактериями блох у ' \
             'человека на месте укуса может возникнуть папула или пустула, наполненная геморрагическим содержимым. ' \
             'Затем процесс распространяется по лимфатическим сосудам без проявления лимфангита. Размножение бактерий ' \
-            'в макрофагах лимфатических узлов приводит к их резкому увеличению, слиянию и образованию конгломерата. ' \
-            'Дальнейшая генерализация инфекции, которая не является строго обязательной, тем более в условиях ' \
-            'современной антибактериальной терапии, может приводить к развитию септической формы, сопровождающейся ' \
-            'поражением практически всех внутренних органов. C эпидемиологических позиций важно, что развивается ' \
-            'чумная бактериемия, в результате больной человек сам становится источником заражения контактным или ' \
-            'трансмиссивным путём. Однако важнейшую роль играют "отсевы" инфекции в лёгочную ткань с развитием ' \
-            'лёгочной формы болезни. С момента развития чумной пневмонии от человека к человеку воздушно-капельным ' \
-            'путём уже передаётся лёгочная форма болезни - крайне опасная, с очень быстрым течением.'
+            'в макрофагах лимфатических узлов приводит к их резкому увеличению, слиянию и образованию конгломерата.'
 
 small_eng = 'Zebras are primarily grazers and can subsist on lower-quality vegetation. They are preyed on mainly by ' \
             'lions and typically flee when threatened but also bite and kick. Zebra species differ in social ' \
@@ -67,12 +57,7 @@ small_eng = 'Zebras are primarily grazers and can subsist on lower-quality veget
             'stallion, while male Grеvy\'s zebras establish territories which attract females and the species is ' \
             'promiscuous. Zebras communicate with various vocalisations, body postures and facial expressions. Social ' \
             'grooming strengthens social bonds in plains and mountain zebras. Zebras\' dazzling stripes make them ' \
-            'among the most recognisable mammals. They have been featured in art and stories in Africa and beyond. ' \
-            'Historically, they have been highly sought after by exotic animal collectors, but unlike horses and ' \
-            'donkeys, zebras have never been truly domesticated. The International Union for Conservation of Nature (' \
-            'IUCN) lists the Grеvy\'s zebra as endangered, the mountain zebra as vulnerable and the plains zebra as ' \
-            'near-threatened. The quagga, a type of plains zebra, was driven to extinction in the 19th century. ' \
-            'Nevertheless, zebras can be found in numerous protected areas.'
+            'among the most recognisable mammals. They have been featured in art and stories in Africa and beyond.'
 
 medium_eng = 'The octopus (along with cuttlefish) has the highest brain-to-body mass ratios of all invertebrates; it ' \
              'is also greater than that of many vertebrates. It has a highly complex nervous system, only part of ' \
@@ -91,10 +76,7 @@ medium_eng = 'The octopus (along with cuttlefish) has the highest brain-to-body 
              'two organs called statocysts (sac-like structures containing a mineralised mass and sensitive hairs), ' \
              'that allow the octopus to sense the orientation of its body. They provide information on the position ' \
              'of the body relative to gravity and can detect angular acceleration. An autonomic response keeps the ' \
-             'octopus\'s eyes oriented so that the pupil is always horizontal. Octopuses may also use the statocyst ' \
-             'to hear sound. The common octopus can hear sounds between 400 Hz and 1000 Hz, and hears best at 600 Hz. ' \
-             'Octopuses have an excellent sense of touch. The octopus\'s suction cups are equipped with ' \
-             'chemoreceptors so the octopus can taste what it touches.'
+             'octopus\'s eyes oriented so that the pupil is always horizontal. '
 
 large_eng = 'The lion is the most social of all wild felid species, living in groups of related individuals with ' \
             'their offspring. Such a group is called a "pride". Groups of male lions are called "coalitions". Females ' \
@@ -124,11 +106,4 @@ large_eng = 'The lion is the most social of all wild felid species, living in gr
             'at the site it is taken. Other benefits include possible kin selection; sharing food within the family; ' \
             'protecting the young, maintaining territory and individual insurance against injury and hunger. Both ' \
             'males and females defend the pride against intruders, but the male lion is better-suited for this ' \
-            'purpose due to its stockier, more powerful build. Some individuals consistently lead the defence against ' \
-            'intruders, while others lag behind. Lions tend to assume specific roles in the pride; slower-moving ' \
-            'individuals may provide other valuable services to the group. Alternatively, there may be rewards ' \
-            'associated with being a leader that fends off intruders; the rank of lionesses in the pride is reflected ' \
-            'in these responses. The male or males associated with the pride must defend their relationship with the ' \
-            'pride from outside males who may attempt to usurp them. Asiatic lion prides differ in group composition. ' \
-            'Male Asiatic lions are solitary or associate with up to three males, forming a loose pride while females ' \
-            'associate with up to 12 other females, forming a stronger pride together with their cubs.'
+            'purpose due to its stockier, more powerful build.'

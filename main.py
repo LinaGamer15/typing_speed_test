@@ -47,7 +47,7 @@ def finish_typing(entry):
             except IndexError:
                 mistakes += 1
     result.configure(text=f'Symbols per minute: {symbols_in_min}, Words per minute: {words_in_min}, Mistakes: {mistakes}')
-    result.grid(row=5, column=3, pady=20, sticky=N)
+    result.grid(row=7, column=1, pady=20, sticky=N)
 
 
 def start_typing():
